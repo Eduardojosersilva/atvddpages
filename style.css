@@ -1,0 +1,10 @@
+body header h1{
+    background-color: rgb(51, 19, 212);
+    color: rgb(230, 230, 244);
+    text-shadow: 3px 3px 3px black;
+    font-family: 'Times New Roman', Times, serif;
+} 
+body section h2{
+    color: red;
+        font-family: 'Times New Roman', Times, serif;
+}
